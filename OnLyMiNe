@@ -1137,7 +1137,4 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png" group-title="Malay" tvg-id="TV9" tvg-name="TV9", TV9
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HfqKZFr0HoPFIL3fkTk0yg","k":"Zfavh1DSSyMNkbmEI3rB5A"}]}
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
