@@ -1076,10 +1076,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 https://windnew.newkso.ru/wind/premium340/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Malay" tvg-id="104.astro" tvg-name="104.astro", Astro Ria HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
 https://load.perfecttv.net/mpd/ria/manifest.mpd 
+https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=riahd
 
 #EXTINF:-1 tvg-id="106.astro" group-title="Malay" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png",Astro Oasis HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
