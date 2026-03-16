@@ -2,4 +2,4 @@
 #EXTINF:-1 tvg-id="AstroCitra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Malay Variety",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
+http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
