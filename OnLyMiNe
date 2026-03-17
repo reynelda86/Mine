@@ -476,7 +476,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 http://103.161.153.165:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="English" tvg-id="AndpriveHD.in" tvg-name="AndpriveHD.in", &privé HD
-https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/And-Prive-HD/index-connected/index-connected.m3u8?hdntl=exp=1768459142~acl=%2f*~id=1a21427b-4887-408c-932e-8b41c855aa4c~data=hdntl~hmac=7bd734d691eacf5a6ee1a3268d00c7c97aed6b973e7bf304d0dc1585afae4c16
+http://202.70.146.135:8000/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png" group-title="English" tvg-id="5starmax.us" tvg-name="5starmax.us", 5 StarMax
 http://fortv.cc:8080/live/rayray_65@yahoo.com/R7068779956H/13381.ts
