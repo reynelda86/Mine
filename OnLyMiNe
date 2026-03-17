@@ -512,10 +512,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="English" tvg-id="ComedyCentralWest.us" tvg-name="ComedyCentralWest.us", Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="English" tvg-id="CrimeInvestigation" tvg-name="CrimeInvestigation", Crime & Investigation HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21BVTrB47erypG3tevi1U9Fv6BbNUBEiuiX:db6bb638ccdfc1ad1a3e98d728486801
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="English" tvg-id="CrimeInvestigation" tvg-name="CrimeInvestigation", Crime & Investigation HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mediampd/CrimeInvestigationHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="English" tvg-id="Dreamworks" tvg-name="Dreamworks", DreamWorks
 #KODIPROP:inputstreamaddon=inputstream.adaptive
