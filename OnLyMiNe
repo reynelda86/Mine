@@ -556,9 +556,6 @@ https://fta1-cdn-flr.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/571/1021/png-transparent-hallmark-movies-mysteries-hallmark-channel-television-channel-television-film-others-television-text-logo-thumbnail.png" group-title="English" tvg-id="HallmarkChannelEast.us" tvg-name="HallmarkChannelEast.us", Hallmark Channel
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvglm3dRVVOTCgZYLH4GEZ80UMPz8flZONOA&usqp=CAU" group-title="English" tvg-id="HallmarkMoviesMysteriesEast.us" tvg-name="HallmarkMoviesMysteriesEast.us", Hallmark Movies Mysteries East
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2JVt_bG5VXbXa_ZTtEBySftgV-evsqzVAA&usqp=CAU" group-title="English" tvg-id="hbo2.us" tvg-name="hbo2.us", HBO 2
 http://fortv.cc:8080/live/rayray_65@yahoo.com/R7068779956H/9816.ts
 
