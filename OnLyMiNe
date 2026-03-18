@@ -614,8 +614,10 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/442.png" group-title="English" tvg-id="MovieMax.us" tvg-name="MovieMax.us", MovieMax
 http://hayv4hgp.rostelekom.xyz/iptv/56VSPXARPUGX6T/6155/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad5yP-U2GCSDztOnBiST5nyCqhnys1qYKBA&usqp=CAU" group-title="English" tvg-id="HDMoviesNow.in" tvg-name="HDMoviesNow.in", Movies Now HD
-http://tv.cloudcdn.me:80/live.ts?channelId=162&deviceMac=00:1A:79:0A:3B:2D
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DTXQ3Pc.png" group-title="English" tvg-id="" tvg-name="", Moviesphere Free
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64a3d96f060e830008af6745/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
