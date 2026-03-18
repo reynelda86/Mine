@@ -620,7 +620,7 @@ http://hayv4hgp.rostelekom.xyz/iptv/56VSPXARPUGX6T/6155/index.m3u8
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DTXQ3Pc.png" group-title="English" tvg-id="" tvg-name="", Moviesphere Free
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64a3d96f060e830008af6745/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQInLji.png" group-title="English" tvg-id="" tvg-name="", My time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
