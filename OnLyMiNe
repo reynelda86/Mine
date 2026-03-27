@@ -398,6 +398,9 @@ https://surautv.siar.us/live/surautv.m3u8
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png" group-title="News" tvg-id="ABCAustralia" tvg-name="ABCAustralia", ABC Australia
 https://streaming.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvglm3dRVVOTCgZYLH4GEZ80UMPz8flZONOA&usqp=CAU" group-title="English" tvg-id="HallmarkMoviesMysteriesEast.us" tvg-name="HallmarkMoviesMysteriesEast.us", Hallmark Movies Mysteries East
+https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
+
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="English" tvg-id="411" tvg-name="411", CinemaWorld HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv 
