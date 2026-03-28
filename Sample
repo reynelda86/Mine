@@ -1,3 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png", COLORS INFINITY HD
-https://mhdtvstream.com/live.php?id=1158&extension=.m3u8|Referer=https://mhdtvstream.com/
+#EXTINF:-1 tvg-id="lotus-macau" tvg-logo="https://i.imgur.com/5G72qjx.png" group-title="C1gnalBPK",Lotus Macau
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
+
+#EXTINF:-1 tvg-id="lotus-macau" tvg-logo="https://i.imgur.com/5G72qjx.png" group-title="Taiwan|China",2 Lotus Macau
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
