@@ -398,6 +398,29 @@ https://surautv.siar.us/live/surautv.m3u8
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png" group-title="News" tvg-id="ABCAustralia" tvg-name="ABCAustralia", ABC Australia
 https://streaming.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="English" tvg-id="HBO" tvg-name="HBO", HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=b1fa578fb90848a6b40ae09d052e8f96:bf0d2334a6e1ac5c0ed41849ed4d3698 
+https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbo/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://n2086.securepoint.io:25461/images/5a53b1760d2c1e3aa507fa4bea98fe84.png" group-title="English" tvg-id="" tvg-name="", Lifetime Movies Network
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="English" tvg-id="" tvg-name="", Lotus Macau
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1 
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/MBCGROUP/MBCMAX.png" group-title="English" tvg-id="mbcmax.ae" tvg-name="mbcmax.ae", MBC Max
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f 
+https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English" tvg-id="" tvg-name="", MNX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e 
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvglm3dRVVOTCgZYLH4GEZ80UMPz8flZONOA&usqp=CAU" group-title="English" tvg-id="HallmarkMoviesMysteriesEast.us" tvg-name="HallmarkMoviesMysteriesEast.us", Hallmark Movies Mysteries East
 https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 
