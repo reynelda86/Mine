@@ -114,7 +114,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd|Referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png" group-title="Entertainment" tvg-id="ClubbingTV.fr" tvg-name="ClubbingTV.fr", Clubbing TV
-https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Entertainment" tvg-id="CHN" tvg-name="CHN", Euro Indie Music Chart
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
