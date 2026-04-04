@@ -893,10 +893,10 @@ http://hayv4hgp.rostelekom.xyz/iptv/56VSPXARPUGX6T/9225/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="Indian" tvg-id="ColorsTamilHD" tvg-name="ColorsTamilHD", Colors Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"URkFvxkUdLQStOwRdRWnnA", "kid":"5GNU+znCjllWvJRqwqBQEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="Indian" tvg-id="ColorsTamilHD" tvg-name="ColorsTamilHD", Colors Tamil HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png" group-title="Indian" tvg-id="" tvg-name="", Jaya Max
