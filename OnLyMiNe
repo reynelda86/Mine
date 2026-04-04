@@ -906,7 +906,7 @@ http://103.229.254.25:7001/play/a0eb/index.m3u8
 http://nocable.cc:8080/789588/114528/125814
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png" group-title="Indian" tvg-id="SonySABTVIndia.in" tvg-name="SonySABTVIndia.in", Sony SAB TV India
-http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/125809
+http://maxotts.maxdigitaltv.com/x-media/C64/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="Indian" tvg-id="StarVijay" tvg-name="StarVijay", Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
