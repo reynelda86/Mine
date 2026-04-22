@@ -166,9 +166,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_citradangdut_small.png" group-title="Indonesia" tvg-id="" tvg-name="", Citra Dangdut
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="Indonesia" tvg-id="CitraDrama.id" tvg-name="CitraDrama.id", Citra Drama
-https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-KjZOz5nluF4/TXH_fuCkXBI/AAAAAAAAAkA/CDrGeSNaiYQ/w1200-h630-p-k-no-nu/DAAI+07.jpg" group-title="Indonesia" tvg-id="DAAITV.id" tvg-name="DAAITV.id", DAAI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
