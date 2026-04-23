@@ -220,7 +220,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TransTV.id.png" group-title="Indonesia" tvg-id="TransTV.id" tvg-name="TransTV.id", Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="Sports" tvg-id="803.astro" tvg-name="803.astro", Arena Bola
 http://www.geocities.ws/wahyuiptv/AstroArenaBola1.m3u8
