@@ -472,9 +472,6 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.pnghut.com/t/11/18/22/zUAWE3Xswh/live-television-medina-dome-of-the-rock-great-mosque-mecca.jpg" group-title="Islam" tvg-id="" tvg-name="", Medina TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/surautv.png" group-title="Islam" tvg-id="surautv.id" tvg-name="surautv.id", Surau TV
-https://surautv.siar.us/live/surautv.m3u8
-
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png" group-title="News" tvg-id="ABCAustralia" tvg-name="ABCAustralia", ABC Australia
