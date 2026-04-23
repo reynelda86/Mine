@@ -198,9 +198,6 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5QDk3h/mbu.png" group-title="Indonesia" tvg-id="MetroTV.id" tvg-name="MetroTV.id", Metro TV
 https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/popmusik.png" group-title="Indonesia" tvg-id="" tvg-name="", POP Musik
-https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MIKxg3_8Zag/YRa7HBr1hNI/AAAAAAAABTQ/FvDF324u9ew4JwRRCpBUyYkT4gdzVYuGwCLcBGAsYHQ/s0/VKAWqEO.png?v=1.1.1.1" group-title="Indonesia" tvg-id="RCTI.id" tvg-name="RCTI.id", RCTI
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
