@@ -867,7 +867,7 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="Kids" tvg-id="DisneyXDEast.us" tvg-name="DisneyXDEast.us", Disney XD East
-https://zekonew.newkso.ru/zeko/premium314/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz6razZZL0UOs8BsGo7OiFdE9ok_PyKlPOFg&usqp=CAU" group-title="Kids" tvg-id="" tvg-name="", Garfield & Friends
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
