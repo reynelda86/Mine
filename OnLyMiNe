@@ -366,7 +366,7 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_pjgkj04t&password=sM53WzmS&ch
 https://get.perfecttv.net/myunifi.mpd?username=vip_pjgkj04t&password=sM53WzmS&channel=spoTV2&kid=1af079fb-8e1d-43d8-90c1-d804431ad84c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="Sports" tvg-id="TennisChannel.us" tvg-name="TennisChannel.us", Tennis Channel
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/2021081116172640657u.png" group-title="Sports" tvg-id="unifi Sports 1" tvg-name="unifi Sports 1", unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
