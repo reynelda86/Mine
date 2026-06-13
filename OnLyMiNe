@@ -621,9 +621,6 @@ https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ee7915564d7439d09bd3556ffccc87a4:b35e12a75a42a6f9184723a90ff42d9c
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/epix2019_drive.png" group-title="English" tvg-id="EpixDriveIn.us" tvg-name="EpixDriveIn.us", Epix Drive-In
-http://fortv.cc:8080/live/rayray_65@yahoo.com/R7068779956H/14193.ts
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png" group-title="News" tvg-id="AlJazeeraEnglish" tvg-name="AlJazeeraEnglish", Al Jazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
