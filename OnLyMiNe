@@ -815,9 +815,6 @@ http://103.157.248.140:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZ2NJDpN8I9iOiHXK4vvbWz23S1Dic6acNg&usqp=CAU" group-title="English" tvg-id="syfy.us" tvg-name="syfy.us", SYFY HD US
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/46685.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2-ABGfdsIU03z1shkgNPbbuUPNllD5lp2w&usqp=CAU" group-title="English" tvg-id="" tvg-name="", TCM
-http://supersonictv.live:8080/611366/682256/22156
-
 #EXTINF:-1 tvg-logo="https://static.megavie.live/media/animaxhd.jpg" group-title="Kids" tvg-id="Animax" tvg-name="Animax", Animax HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
