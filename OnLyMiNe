@@ -581,10 +581,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvnoSd1JgLzO-Qc-83SD6H_5XajgG599iKMw&usqp=CAU" group-title="English" tvg-id="zeecafe.in" tvg-name="zeecafe.in", Zee Cafe
 http://103.182.170.32:8888/play/a01w
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cYcWxDWRSQHSVRkwolaXTg","kid":"etiI7l3WSWqMLHemKE/5Ng"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="English" tvg-id="HBO" tvg-name="HBO", HBO HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=b1fa578fb90848a6b40ae09d052e8f96:bf0d2334a6e1ac5c0ed41849ed4d3698 
-https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbo/manifest.mpd
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBO
 
 #EXTINF:-1 tvg-logo="http://n2086.securepoint.io:25461/images/5a53b1760d2c1e3aa507fa4bea98fe84.png" group-title="English" tvg-id="" tvg-name="", Lifetime Movies Network
 http://23.237.104.106:8080/USA_LMN/index.m3u8
