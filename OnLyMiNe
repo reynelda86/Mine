@@ -1,6 +1,94 @@
 #EXTM3U
 #EXTM3U url-tvg="https://azimabid00.github.io/epg/astro_epg.xml,https://github.com/ediey7523017/tv/raw/main/unifi_epg.xml,https://www.open-epg.com/files/singapore1.xml.gz,https://github.com/dbghelp/StarHub-TV-EPG/raw/main/starhub.xml,https://www.open-epg.com/files/indonesia4.xml.gz" refresh="1440" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,https://github.com/ediey7523017/tv/raw/main/HBOMAX,https://github.com/ediey7523017/tv/raw/main/AstroFirst,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/AseanVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD,https://github.com/ediey7523017/tv/raw/main/KidsVOD" billed-msg="Freeview Test"
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV1.mana2" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png" group-title="RTM Klik" group-logo="https://rtmklik.rtm.gov.my/appLogo.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV2.mana2" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png" group-title="RTM Klik",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV6.mana2" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv6_Trans.png" group-title="RTM Klik",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="BERITARTM.mana2" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/Berita_Trans.png" group-title="RTM Klik",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Preview Channel.rtm" tvg-logo="https://rtm-images.glueapi.io/720x0/live_channel/rtmworld.jpeg" group-title="RTM Klik",RTM World
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV6.mana2" tvg-logo="https://rtm-images.glueapi.io/720x0/live_channel/SalamBaitullah.jpg" group-title="RTM Klik",Salam Baitullah 2026
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png" group-title="RTM Klik",Dewan Rakyat
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Dewan Negara.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png" group-title="RTM Klik",Dewan Negara
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TVOKEY.mana2" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/system/OkeyDolby.png" group-title="RTM Klik",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey/DASH/okey.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="SUKAN.mana2" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/system/SukanDolby.png" group-title="RTM Klik",Sukan+
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-1-Dolby.png" group-title="RTM Klik",FIFA WC 1
+https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-2-Dolby.png" group-title="RTM Klik",FIFA WC 2
+https://d30aylox5wvifh.cloudfront.net/live/media0/wc2/DASH/wc2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-3-Dolby.png" group-title="RTM Klik",FIFA WC 3
+https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
+
+#EXTINF:-1 tvg-id="Snap.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="RTM Klik",RTM Snap
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="Lead.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg" group-title="RTM Klik",RTM Lead
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="Apetito.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg" group-title="RTM Klik",RTM Apetito
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="Fitrah.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg" group-title="RTM Klik",RTM Fitrah
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="JR..rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg" group-title="RTM Klik",RTM Junior
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="ROLL.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" group-title="RTM Klik",RTM Roll
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="Aura.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg" group-title="RTM Klik",RTM Aura
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" group-title="Chinese" tvg-id="311.astro" tvg-name="311.astro", Astro AOD 311
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F24pOLznldHIVVmiRAR39w","kid":"KGrvTo2F22bgX+Slx5nkEA"}],"type":"temporary"} 
