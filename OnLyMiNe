@@ -702,9 +702,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png" group-title="News" tvg-id="" tvg-name="", TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuPIZK7XATqAXcivrau2YtJG4-YKgJK7mRg&s" group-title="English" tvg-id="" tvg-name="", Action Hollywood Movies
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskg-hQFAmf0vTlgZMWntUfQ7tIpsNpbtOHA&usqp=CAU" group-title="English" tvg-id="" tvg-name="", AMC Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
