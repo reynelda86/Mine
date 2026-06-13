@@ -923,9 +923,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 #EXTINF:-1 tvg-logo="nologo.png" group-title="Indian" tvg-id="" tvg-name="", Sony Max
 http://nocable.cc:8080/789588/114528/125814
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png" group-title="Indian" tvg-id="SonySABTVIndia.in" tvg-name="SonySABTVIndia.in", Sony SAB TV India
-http://maxotts.maxdigitaltv.com/x-media/C64/master.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
