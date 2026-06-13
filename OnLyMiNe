@@ -702,9 +702,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png" group-title="News" tvg-id="" tvg-name="", TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="English" tvg-id="flix.in" tvg-name="flix.in", & flix
-http://103.161.153.165:8000/play/a01z/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="English" tvg-id="AndpriveHD.in" tvg-name="AndpriveHD.in", &privé HD
 http://202.70.146.135:8000/play/a05y/index.m3u8
 
