@@ -73,17 +73,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 #EXTINF:-1 tvg-id="393.astro" group-title="Chinese" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ONE_HD_v2.png", ONE HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 
-#EXTINF:-1 tvg-id="411.astro" group-title="English" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowtime.png", Astro Showtime #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=699fb82c70a7ec297f33aa4423bab510:ed12557604838121d996f0d78379caa3
+#EXTINF:-1 tvg-id="411.astro" group-title="English" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowtime.png", Astro Showtime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=699fb82c70a7ec297f33aa4423bab510:ed12557604838121d996f0d78379caa3
 ###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7RJVdgSDgSHZlvDXg3nKow","kid":"aZ-4LHCn7Cl_M6pEI7q1EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
 
-#EXTINF:-1 tvg-id="412.astro" group-title="English" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFAMTime_2026.png", Astro FAM Time #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="412.astro" group-title="English" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFAMTime_2026.png", Astro FAM Time
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07fa6a9f7fe7806bba9b0e97d0ac5b10:c336fd7c8bb18d17bf63c9e46032a8ed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
 
-#EXTINF:-1 tvg-id="415.astro" group-title="English" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockXStream.png", ROCK X Stream #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="415.astro" group-title="English" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockXStream.png", ROCK X Stream
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=325370d722565ab5ed09a548ba360e10:c88fe8f34b9dc8e10a00e876a6ff4136
 ###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yI_o80udyOEKAOh2pv9BNg","kid":"MlNw1yJWWrXtCaVIujYOEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
