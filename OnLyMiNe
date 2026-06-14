@@ -440,7 +440,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.aa
 https://stream.rcs.revma.com/q17aka9mtd3vv
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio" tvg-id="HITZ" tvg-name="HITZ", HITZ FM
-https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8
+https://stream.rcs.revma.com/488kt4sbv4uvv
 
 #EXTINF:-1 tvg-logo="https://www.radiomalaysia.net/radio/fb/61632hotfm.png" group-title="Radio" tvg-id="CHN" tvg-name="CHN", HOT FM
 https://mifntechnology.github.io/siaranMy/radio/HotFm/playlist.m3u8
