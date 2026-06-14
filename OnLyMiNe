@@ -272,12 +272,6 @@ https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQbRb1RR/Bandung-Tv.png" group-title="Indonesia" tvg-id="" tvg-name="", Bandung Tv
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_citradangdut_small.png" group-title="Indonesia" tvg-id="" tvg-name="", Citra Dangdut
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
-
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-KjZOz5nluF4/TXH_fuCkXBI/AAAAAAAAAkA/CDrGeSNaiYQ/w1200-h630-p-k-no-nu/DAAI+07.jpg" group-title="Indonesia" tvg-id="DAAITV.id" tvg-name="DAAITV.id", DAAI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
