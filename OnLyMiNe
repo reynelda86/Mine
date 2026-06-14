@@ -804,7 +804,7 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz6razZZL0UOs8BsGo7OiFdE9ok_PyKlPOFg&usqp=CAU" group-title="Kids" tvg-id="" tvg-name="", Garfield & Friends
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="Kids" tvg-id="KidsTV.id" tvg-name="KidsTV.id", Kids TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
