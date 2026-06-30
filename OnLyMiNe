@@ -50,7 +50,7 @@ https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_
 #EXTINF:-1 tvg-id="FreeMovies" group-title="English" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/ad1172Free_Movies.png",Free Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemoviesastrosooka-sooka/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MyToonz" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2b1d06mytoonz.png" group-title="English",My Toonz
+#EXTINF:-1 tvg-id="MyToonz" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2b1d06mytoonz.png" group-title="Kids",My Toonz
 https://amg27925-amg27925c1-amgplt0131.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg27925-amg27925c1-amgplt0131/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PetClub" group-title="Lifestyle & Documentary" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/443d3bPetClubTV.png",Pet Club TV
