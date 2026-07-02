@@ -1208,6 +1208,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Chef Champion
 https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="Lifestyle & Documentary" tvg-id="550" tvg-name="550", Nat Geo Wild HD
+http://103.157.248.140:8000/play/a010/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvK-LPh_zsk5g_nDUfZZFjLmj4aZ3idPgd8JjqLWUuchLTf_yDNR2k7zdqEeNV5rLt7qh1g8E3tQpSM9TT7Ozmguy-nUlyCLDErMJXnwrg5VfY3y-9thHYqFmciYTnJVBNT9HGQbNghjcI3er9wSrmoRTgqnDsfEN2Jr03DmvfrLNs13xw5VuOA0o0MDkr/s700/BIZNET%20LIFESTYLE.png" group-title="Lifestyle & Documentary",BIZNET LIFESTYLE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd
