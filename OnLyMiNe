@@ -89,6 +89,15 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTINF:-1 cuid="1278" tvg-chno="1276" tvg-name="Deluxe Music 🇩🇪" tvg-id="DeluxeMusic.de" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DeluxeMusic.webp" group-title="Entertainment",Deluxe Music
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/NOW_90s_Logo.png" group-title="Entertainment" tvg-id="" tvg-name="", Now 90
+https://jmp2.uk/plu-660c209e19ca71000846cf38.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/1/pluto-tv-logo-png_seeklogo-520780.png" group-title="English" tvg-id="" tvg-name="", Pluto Tv Action
+https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/1/pluto-tv-logo-png_seeklogo-520780.png" group-title="English" tvg-id="" tvg-name="", Pluto Tv Movies
+https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
+
 #EXTINF:-1 cuid="1283" tvg-chno="1281" tvg-name="Ocko Star 🇨🇿" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Entertainment",Ocko Star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?wmsAuthSign=Inspirationlivetv
 
