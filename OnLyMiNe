@@ -1208,6 +1208,17 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="Lifestyle & Documentary" tvg-id="" tvg-name="", Chef Champion
 https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvK-LPh_zsk5g_nDUfZZFjLmj4aZ3idPgd8JjqLWUuchLTf_yDNR2k7zdqEeNV5rLt7qh1g8E3tQpSM9TT7Ozmguy-nUlyCLDErMJXnwrg5VfY3y-9thHYqFmciYTnJVBNT9HGQbNghjcI3er9wSrmoRTgqnDsfEN2Jr03DmvfrLNs13xw5VuOA0o0MDkr/s700/BIZNET%20LIFESTYLE.png" group-title="Lifestyle & Documentary",BIZNET LIFESTYLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/ImcV3.png" group-title="Indonesia" tvg-id="IMC" tvg-name="IMC", IMC
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6sVSrh8/d-turbo.png" group-title="Lifestyle & Documentary" tvg-id="discoveryturbo.uk" tvg-name="discoveryturbo.uk", Discovery Turbo India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b 
