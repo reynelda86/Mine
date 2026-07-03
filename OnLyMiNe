@@ -21,6 +21,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5187/default_primary.mpd
 #EXTINF:-1 tvg-id="Cineedge.id" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png" group-title="English",CINEEDGE
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_6uMQjE-loDL1aRkCIOYir5p5papFveQsa9DyA7INp8OT3RY8ma1rWig&s=10" group-title="English" tvg-id="FlicksofFury.us@SD" tvg-name="", Flicks of Fury
+https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/1/pluto-tv-logo-png_seeklogo-520780.png" group-title="English" tvg-id="" tvg-name="", Pluto Tv Fantastics
+https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/walkingdead/images/a/a3/TWDUniverse.jpeg/revision/latest?cb=20250115221245" group-title="Series" tvg-id="" tvg-name="", The Walking Dead Universe
+https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
+
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30" tvg-id="5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hi-yah!_logo.png" group-title="English",Hi-YAH! PLEX
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8?ads.plex_token=p6Ph7ybs-ExykQE-Zz78&ads.plex_id=5f64c4ef35f612003f6ffe30&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
