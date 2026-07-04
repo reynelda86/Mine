@@ -1589,3 +1589,70 @@ https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=97f8755b-cfbe-41f9-ac03-f952ab4ed89b 
 https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=97f8755b-cfbe-41f9-ac03-f952ab4ed89b&sub=t23
+
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/04/5146eee0-92d5-3e75-81d9-4f92a896806f.jpeg" group-title="VOD English" tvg-id="" tvg-name="", Fantastic Beasts and Where to Find Them (2016)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=bacb14b5-0815-4d9f-a781-11c8ecf6dfff
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bacb14b5-0815-4d9f-a781-11c8ecf6dfff&sub=t18
+
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/05/417e8f3b-2cd5-3a7e-a3d5-a981c03e9f5a.jpeg" group-title="VOD English" tvg-id="" tvg-name="", Fantastic Beasts: The Crimes of Grindelwald (2018)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=76a3cb10-3921-4864-a7db-c87b69f5c4ee
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=76a3cb10-3921-4864-a7db-c87b69f5c4ee&sub=t10
+
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/17/3806bde4-2f8a-35f9-b4d7-99314806d2c9.jpeg" group-title="VOD English" tvg-id="" tvg-name="", Fantastic Beasts: The Secrets of Dumbledore (2022)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=6a2c050c-4bcd-4e57-bb4e-25f940de688a
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=6a2c050c-4bcd-4e57-bb4e-25f940de688a&sub=t10
+
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/31/a6ec2a75-d4df-372a-b3e1-49cd258ce344.jpeg" group-title="VOD English" tvg-id="" tvg-name="", Godzilla (2014)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=3b178798-d9b7-42ad-8f7a-a961b1b789f6
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3b178798-d9b7-42ad-8f7a-a961b1b789f6&sub=t21
+
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/25/a39f0808-30b5-3ee1-bf5e-f3a7b7749e58.jpeg" group-title="VOD English" tvg-id="" tvg-name="", Godzilla x Kong: The New Empire (2024)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b325f888-b2d5-4662-802a-2ad829a7a5d6
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b325f888-b2d5-4662-802a-2ad829a7a5d6&sub=t38
+
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/06/25b3fac7-b0ed-3f59-aa26-4de81d6e64ce.jpeg" group-title="VOD English" tvg-id="" tvg-name="", Hellboy: The Crooked Man (2024)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=107f601e-735b-427a-b009-e9f09d0d6068
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=107f601e-735b-427a-b009-e9f09d0d6068&sub=t5
+
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/a4b4b308-4d38-340b-a456-563efab44b68.jpeg" group-title="VOD English" tvg-id="" tvg-name="", Justice League (2017)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=326a002c-d0fb-4499-95f0-41e5cf5189e7
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=326a002c-d0fb-4499-95f0-41e5cf5189e7&sub=t16
+
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/16/2697defb-9ad8-37c4-9c18-34189f472b10.jpeg" group-title="VOD English" tvg-id="" tvg-name="", Man of Steel (2013)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=5f466bc9-f391-491d-8f4d-fc7807f234fc
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=5f466bc9-f391-491d-8f4d-fc7807f234fc&sub=t7
+
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/26/bf02199d-d5a8-3af9-b2ef-9678e7506d25.jpeg" group-title="VOD English" tvg-id="" tvg-name="", Mortal Kombat (2021)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=4d82f31a-ffac-49c9-bc5d-db32a97818d9
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=4d82f31a-ffac-49c9-bc5d-db32a97818d9&sub=t25
+
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/26/8a89172a-25ef-38fc-8699-37e2c42ea145.jpeg" group-title="VOD English" tvg-id="" tvg-name="", Mortal Kombat (1995)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=d9c78382-59bb-4f62-8750-00b4c1eaeac1
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=d9c78382-59bb-4f62-8750-00b4c1eaeac1&sub=t1
+
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/2a322e53-5afb-31d1-86b9-c76d652a2e77.jpeg" group-title="VOD English" tvg-id="" tvg-name="", Mortal Kombat (1997)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=434fb2f8-c3c8-4c44-aed3-6492a9cd12ae
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=434fb2f8-c3c8-4c44-aed3-6492a9cd12ae&sub=t9
+
