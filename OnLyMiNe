@@ -1454,3 +1454,138 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"27828727f0a3a0b4fbc668378ccf8c10": "958e9cb7389e20948de5a542d2729ecf"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjg2NTcwYWQtYzk4NS00MTJhLWEzZjItMzIxNjk3YzlkYzU0XkEyXkFqcGc@._V1_.jpg" group-title="VOD English", Jurassic World Rebirth (2025)
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=2f153371-fbcf-43f9-b4d1-2621049230e6 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2f153371-fbcf-43f9-b4d1-2621049230e6&sub=t2
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFmNjVjZWQtZjI5Zi00YThiLTg0ZWItZDdjYzhhZDE1NTE2XkEyXkFqcGc@._V1_.jpg" group-title="VOD English", M3GAN 2.0 (2025)
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=2addc96b-2fb5-44d1-9521-a7922103980a 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2addc96b-2fb5-44d1-9521-a7922103980a&sub=t2
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Drop_Poster.jpg" group-title="VOD English", Drop (2025)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=1c54dc08-89e1-4fe3-8f8f-47f0479cd8de 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=1c54dc08-89e1-4fe3-8f8f-47f0479cd8de&sub=t2
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/EhPyG/4QRi74ApnJTTMaAYg.jpeg" group-title="VOD English", All the Devils Are Here (2025)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=6e1e75a1-8603-4efb-910d-5abf71964383 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=6e1e75a1-8603-4efb-910d-5abf71964383&sub=t2
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/aHazH/e5oSksWOkWk04mLDA.jpeg" group-title="VOD English", Trust (2025)
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=8eeac6d3-83ad-4fc3-bdcd-c31861a630da 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8eeac6d3-83ad-4fc3-bdcd-c31861a630da&sub=t2
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/NGpMD/TH2F0AoNdq6X1tbGA.jpeg" group-title="VOD English", The Legend of Tarzan (2016)
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=87360973-c358-4b4f-862f-afd03ad38f17 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=87360973-c358-4b4f-862f-afd03ad38f17&sub=t2
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/0eE8w/slfDVfG2YIHC8ZM4Q.jpeg" group-title="VOD English", Black Bag (2025)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=207069a1-3057-46d0-b6ae-c2e3b3567df3 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=207069a1-3057-46d0-b6ae-c2e3b3567df3&sub=t2
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/kkwuP/Uvcc6nsPDNbsx87YQ.jpeg" group-title="VOD English", Spell (2020)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=37a7bd63-e753-4c76-acd7-14df2dfdd081 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=37a7bd63-e753-4c76-acd7-14df2dfdd081&sub=t2
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/YeXyG/zjRz8pTokvC1My4Bg.jpeg" group-title="VOD English", Spin The Bottle (2024)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=f75b4af4-36f6-4050-b244-7c77ce6c96b5 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f75b4af4-36f6-4050-b244-7c77ce6c96b5&sub=t2
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/tpOml/fGJ7iSi4sChFrWcNw.jpeg" group-title="VOD English", Final Destination 1 (2000)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=8903cf57-b222-4b9b-b58b-2a5a6cc1588f 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8903cf57-b222-4b9b-b58b-2a5a6cc1588f&sub=t2
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/NQ0Jv/THeFjcbPX3dduOeTw.jpeg" group-title="VOD English", Final Destination 2 (20043)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=787f950b-0fe3-4a95-911d-2553f3db9a77 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=787f950b-0fe3-4a95-911d-2553f3db9a77&sub=t2
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/es5BO/5ITFvTRpP4BmeRIwg.jpeg" group-title="VOD English", Final Destination 3 (2006)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=29056e15-a4c2-42aa-9241-a032fde4451c 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=29056e15-a4c2-42aa-9241-a032fde4451c&sub=t2
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/cvgJ_/CrPc27DkyfSR7vUZg.jpeg" group-title="VOD English", Final Destination 4 (2009)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=fb0ead35-932f-490a-85a3-c88140152a33 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=fb0ead35-932f-490a-85a3-c88140152a33&sub=t2
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/hrsCl/h8XSQMa-ZO_W9rzmQ.jpeg" group-title="VOD English", Final Destination 5 (2011)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=47667ba9-6ded-44b9-8514-66c3637621cf 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=47667ba9-6ded-44b9-8514-66c3637621cf&sub=t2
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/Q9Q7y/3Wzf_acNoeRMjHZJQ.jpeg" group-title="VOD English", Final Destination Bloodlines (2025)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=18b140b1-220c-4a45-b784-ffffa0293ff8 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=18b140b1-220c-4a45-b784-ffffa0293ff8&sub=t2
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/27/23a170b2-27ac-3bae-9a54-9dca3ef051db.jpeg" group-title="VOD English", Aquaman (2018)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=2854e755-ee28-4b91-ad82-0384200b0c86 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2854e755-ee28-4b91-ad82-0384200b0c86&sub=t24
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/20/6d7eb835-3c96-35e4-bfb9-c53457f59864.jpeg" group-title="VOD English", Aquaman and the Lost Kingdom (2023)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=d09acd40-f3e3-4c15-9561-4d5478595229 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=d09acd40-f3e3-4c15-9561-4d5478595229&sub=t11
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/01/86836e48-d08c-39d0-9b53-dc4f6bd09e71.jpeg" group-title="VOD English", Batman (1989)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=843ee9fd-b65a-4bbb-b86b-030582062dff 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=843ee9fd-b65a-4bbb-b86b-030582062dff&sub=t18
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/02/89dc1e89-5f01-33d1-8de2-027496277966.jpeg" group-title="VOD English", Batman & Robin (1997)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=ddb779e0-3f76-4033-b534-4e660f7bd904 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ddb779e0-3f76-4033-b534-4e660f7bd904&sub=t9
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/26/53edbc07-60c7-3159-aab5-6f8e9cf176c8.jpeg" group-title="VOD English", Batman Begins (2005)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=614107f2-d504-48fe-a64b-e8986432ba32 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=614107f2-d504-48fe-a64b-e8986432ba32&sub=t8
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/26/d387cc78-9470-3138-8658-0988966ec3f6.jpeg" group-title="VOD English", Batman Forever (1995)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=db16133d-e355-4b2f-a3da-d34126dd8f89 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=db16133d-e355-4b2f-a3da-d34126dd8f89&sub=t14
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/28/e05c336d-ba66-3d3f-827e-d42679dffd39.jpeg" group-title="VOD English", Batman Returns (1992)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=ffb6310a-71fe-4015-9ffa-eed56f10eaca 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ffb6310a-71fe-4015-9ffa-eed56f10eaca&sub=t10
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/07/21e80593-362f-32b1-a188-f00fcadd79c6.jpeg" group-title="VOD English", Batman v Superman: Dawn of Justice (2016)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=97f8755b-cfbe-41f9-ac03-f952ab4ed89b 
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=97f8755b-cfbe-41f9-ac03-f952ab4ed89b&sub=t23
