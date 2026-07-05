@@ -1656,3 +1656,101 @@ https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=d
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=434fb2f8-c3c8-4c44-aed3-6492a9cd12ae
 https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=434fb2f8-c3c8-4c44-aed3-6492a9cd12ae&sub=t9
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/04/23/8b32cd28-b53b-3c67-98a1-a6aff753c2cd.jpeg" group-title="VOD English", Run All Night (2015)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c5c76757-7f59-4878-9e97-73722da7c099
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c5c76757-7f59-4878-9e97-73722da7c099&sub=t7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/30/963a84cd-e35a-3e34-87bc-a64ede11c701.jpeg" group-title="VOD English", Harry Potter and the Philosophers Stone (2001)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=16e04231-69f4-4865-8538-69407a3b7711
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=16e04231-69f4-4865-8538-69407a3b7711&sub=t12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/43681996-e918-3bd8-bbaf-d32c83369dd8.jpeg" group-title="VOD English", Harry Potter and the Chamber of Secrets (2002)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=2c3a13a2-7b9e-4e98-9db5-26d7e727ec18
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2c3a13a2-7b9e-4e98-9db5-26d7e727ec18&sub=t42
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/0145115c-4c19-3869-bcf4-1c43e41921a9.jpeg" group-title="VOD English", Harry Potter and the Prisoner of Azkaban (2004)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=22dcb0f6-3351-4e1b-aced-9b8cb0b569b2
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=22dcb0f6-3351-4e1b-aced-9b8cb0b569b2&sub=t0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/7a541bd5-64e2-3188-8d66-067f330ad814.jpeg" group-title="VOD English", Harry Potter and the Goblet of Fire (2005)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=f0c79c62-0e8a-420a-bbab-35ad3587b683
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f0c79c62-0e8a-420a-bbab-35ad3587b683&sub=t32
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/e7ba3b8d-0149-3c34-8d8e-f11c22dcbadd.jpeg" group-title="VOD English", Harry Potter and the Order of the Phoenix (2007)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=03a29f9d-b292-4ef8-861d-c911c0398447
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=03a29f9d-b292-4ef8-861d-c911c0398447&sub=t30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/8a999684-46a5-3cf9-a13d-ea2d1bb10162.jpeg" group-title="VOD English", Harry Potter and the Half-Blood Prince (2009)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=97214560-494d-4180-887d-cdd66664bc9e
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=97214560-494d-4180-887d-cdd66664bc9e&sub=t44
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/782993c8-4a2c-392b-a271-dafbb8457be2.jpeg" group-title="VOD English", Harry Potter and the Deathly Hallows: Part 1 (2010)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=69c502cb-f393-47b3-96e5-bfe2c4cf3b65
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=69c502cb-f393-47b3-96e5-bfe2c4cf3b65&sub=t4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/568e644a-eb9b-380c-bad9-367ff862fea1.jpeg" group-title="VOD English", Harry Potter and the Deathly Hallows Part 2 (2011)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=9b9d9055-3638-468b-9889-096b22566f7b
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=9b9d9055-3638-468b-9889-096b22566f7b&sub=t32
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/9fda2c4f-674f-31c7-906e-7bd8b83c2ace.jpeg" group-title="VOD English", Khunpan 3 (2023)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=08adb58b-b75a-42fe-bccb-41c27f622686
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=08adb58b-b75a-42fe-bccb-41c27f622686&sub=t6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/12/13/7dd0e35f-faff-33f4-9530-82b2280431b9.jpeg" group-title="VOD English", Pacific Rim (2013)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=cf40b9a3-23b2-49b6-a6ea-7c6870226907
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=cf40b9a3-23b2-49b6-a6ea-7c6870226907&sub=t6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/20/ded7d306-cd12-3c66-bfdf-53722674cffd.jpeg" group-title="VOD English", Jurassic World: Fallen Kingdom (2018)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c85774c4-ae06-45e3-b2d3-0854ee02591d
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c85774c4-ae06-45e3-b2d3-0854ee02591d&sub=t4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/18/5140028c-f901-35e6-acdd-b007f76be417.jpeg" group-title="VOD English", Jurassic Park (1993)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=de1a2f04-6b7b-446a-b567-f9b96ce4064f
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=de1a2f04-6b7b-446a-b567-f9b96ce4064f&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/12/e14de6d3-16c9-3286-9c2a-d205814d42b8.jpeg" group-title="VOD English", Dune: Part One (2021)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=3424844c-05db-4cab-9bed-2825e231de94
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3424844c-05db-4cab-9bed-2825e231de94&sub=t36
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/03/03/541961bb-908d-3ca8-a6ba-73d498569d82.jpeg" group-title="VOD English", Dune: Part Two (2024)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=3c3df515-93b8-4410-b10a-414079529821
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3c3df515-93b8-4410-b10a-414079529821&sub=t3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/13/c7bae01b-ffa1-3870-9542-de3712f05b0e.jpeg" group-title="VOD English", Ambushed (2013)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=e15abb07-171c-4361-b6ed-f8cbab4b5634
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=e15abb07-171c-4361-b6ed-f8cbab4b5634&sub=t2
+
+
