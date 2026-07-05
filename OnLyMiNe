@@ -1460,6 +1460,108 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=2f153371-fbcf-43f9-b4d1-2621049230e6 
 https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2f153371-fbcf-43f9-b4d1-2621049230e6&sub=t2
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/07/69e1d911-9a95-38b3-bb40-5f0017c14bd8.jpeg" group-title="VOD English", Border: Shokuzai (2018)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=808a3efd-fe73-4290-a9a9-40689761b6e9
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=808a3efd-fe73-4290-a9a9-40689761b6e9&sub=t0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/25/9e82eb2c-7978-3025-95bc-78375ddb2eb7.jpeg" group-title="VOD English", Dead Mine (2012)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=6bf231ab-e569-4c69-b071-16d2270626dd
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=6bf231ab-e569-4c69-b071-16d2270626dd&sub=t3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/22/c8e0fbcf-cc90-3d3b-9d21-e415257ead00.jpeg" group-title="VOD English", Meg 2: The Trench (2023)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=17aa1016-9609-4c0b-b7ed-1a687000e876
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=17aa1016-9609-4c0b-b7ed-1a687000e876&sub=t5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/21/a9e5eecc-bce0-3f08-92ef-240e94aaef97.jpeg" group-title="VOD English", The Meg (2018)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=144be5db-47b9-490a-b1dd-309b8fc4db2f
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=144be5db-47b9-490a-b1dd-309b8fc4db2f&sub=t17
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/29/3c23e5eb-7448-326d-95f1-0faa4b6f8fa8.jpeg" group-title="VOD English", Shazam Fury of the Gods (2023)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b4f32bde-d67d-4399-a495-28526b5bb441
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b4f32bde-d67d-4399-a495-28526b5bb441&sub=t15
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/7fc95ab9-23a2-3efa-94b8-498fb08ee876.jpeg" group-title="VOD English", Shoot Em Up (2007)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=61d5e3d7-58c7-402d-9552-3d0c8aaafda3
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=61d5e3d7-58c7-402d-9552-3d0c8aaafda3&sub=t8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/7fb7602e-784b-3244-9ad1-2bdb8a479f2a.jpeg" group-title="VOD English", Suicide Squad (2016)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=69a74f34-12ff-4d9d-89b8-885316401128
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=69a74f34-12ff-4d9d-89b8-885316401128&sub=t13
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/12/2d077460-3a16-30eb-a911-f372f13e6604.jpeg" group-title="VOD English", Superman Returns (2006)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=593f91d3-e760-49e2-874f-5be5161663d3
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=593f91d3-e760-49e2-874f-5be5161663d3&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/30/039c2439-7480-3545-bb3d-31bfd17d4605.jpeg" group-title="VOD English", The Batman (2022)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=c463e2c8-e703-466a-bd3d-aa02668ff3cb
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c463e2c8-e703-466a-bd3d-aa02668ff3cb&sub=t31
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/26/c01f0dbd-2ffb-3cbf-abf0-aabd0cc63e93.jpeg" group-title="VOD English", The Dark Knight (2008)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b6a82b24-bcfe-453d-9b9d-563a5ad02a99
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b6a82b24-bcfe-453d-9b9d-563a5ad02a99&sub=t6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/26/bb442835-e8ce-3c4c-ba2c-82856133e6c6.jpeg" group-title="VOD English", The Dark Knight Rises (2012)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=01844b86-4a19-4778-b4a9-110b00b85e03
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=01844b86-4a19-4778-b4a9-110b00b85e03&sub=t19
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/08/18/02323d49-7704-35a7-8197-5cdfd2184815.jpeg" group-title="VOD English", The Flash (2023)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=083ecdb9-1001-47fa-b295-b3e47038a0b9
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=083ecdb9-1001-47fa-b295-b3e47038a0b9&sub=t1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/12/9fbb5831-4c24-314c-8cb3-2b55b3f464a1.jpeg" group-title="VOD English", The Matrix (1999)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=14bf56e5-916a-4c6f-911d-7a94596afc9f
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=14bf56e5-916a-4c6f-911d-7a94596afc9f&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/30/9870e434-8cdd-3752-b51c-015af067d426.jpeg" group-title="VOD English", The Matrix Reloaded (2003)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=b1adae34-5f5e-41a6-b2f1-bbf51635d453
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b1adae34-5f5e-41a6-b2f1-bbf51635d453&sub=t13
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/12/d198521b-99be-3b55-b3de-6059cb6ce2d1.jpeg" group-title="VOD English", The Matrix Revolutions (2003)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=1b44e803-22a8-4b87-8217-37eef8c4c772
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=1b44e803-22a8-4b87-8217-37eef8c4c772&sub=t22
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/ee78ee60-fde8-3d4a-ad24-fde9eb436151.jpeg" group-title="VOD English", The Matrix: Resurrections (2021)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=cf5130a6-1dee-4677-b0e1-03d4b4c57bca
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=cf5130a6-1dee-4677-b0e1-03d4b4c57bca&sub=t24
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/c718c92a-11ce-391a-9235-1489f3e77ab0.jpeg" group-title="VOD English", Zack Snyder is Justice League (2021)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=57423fab-d95a-4815-a1c2-2a4024a4f4d8
+https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=57423fab-d95a-4815-a1c2-2a4024a4f4d8&sub=t7
+
 #EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFmNjVjZWQtZjI5Zi00YThiLTg0ZWItZDdjYzhhZDE1NTE2XkEyXkFqcGc@._V1_.jpg" group-title="VOD English", M3GAN 2.0 (2025)
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvmax?editId=2addc96b-2fb5-44d1-9521-a7922103980a 
