@@ -1882,6 +1882,24 @@ https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=e
 #EXTINF:-1 tvg-logo="https://www.ohflix.com/uploads/video_thumb/6852.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Abang Long Fadil (2014)
 https://www.googleapis.com/drive/v3/files/1IzE2fdB9Tlc0AlgV9WRe0K5f8Y7XxTMb?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
+#EXTINF:-1 tvg-id="tv1" tvg-name="First" group-title="VOD Malay" group-logo="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdx4Iohs6RvKfOY0x1lSeRs6CHZ.jpg", 16 Puasa
+https://ptv2026.com/okayru.m3u8?id=12934451759823
+
+#EXTINF:-1 tvg-id="tv1" tvg-name="First" group-title="VOD Malay" group-logo="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCsjDo3GMw0VZYQPBnRfIMXyDfC.jpg", 17 Puasa
+https://ptv2026.com/okayru.m3u8?id=12934462573263
+
+#EXTINF:-1 tvg-id="tv1" tvg-name="First" group-title="VOD Malay" group-logo="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPSZCJr2Hom3DRVCuto1rVrh2h.jpg", 18 Puasa
+https://ptv2026.com/okayru.m3u8?id=12934469126863
+
+#EXTINF:-1 tvg-id="tv1" tvg-name="First" group-title="VOD Malay" group-logo="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5P8mDRh7IV4b10QBa1jasg3g3FA.jpg", Banduan (2025)
+https://ptv2026.com/okayru.m3u8?id=12897875790543
+
+#EXTINF:-1 tvg-id="tv1" tvg-name="First" group-title="VOD English" group-logo="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg", The Shadows Edge(2025)
+https://ptv2026.com/okayru.m3u8?id=11667021564623
+
+#EXTINF:-1 tvg-id="tv1" tvg-name="First" group-title="VOD Malay" group-logo="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywBX54q4tRch4xuzekRVSv7tj8q.jpg", Harimau Merah (2025)
+https://ptv2026.com/okayru.m3u8?id=10632443005647
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTUlr9G1Jd3MINHSbuRVL0TH1rNP4f7JCo7Q&usqp=CAU" group-title="VOD Malay" tvg-id="" tvg-name="", Abang Long Fadil 2 (2017)
 https://drive.usercontent.google.com/download?id=1EFtXPe8b647UKC3yMIzfCEaNtEzFABHv&export=download&authuser=0&confirm=t&uuid=1b3f37d4-8d66-44ba-8ebd-5f745fde52b7&at=APcmpoxMnFfE3aY3NVODLzH1uxRY%3A1744994349391
 
